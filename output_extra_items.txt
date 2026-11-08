@@ -1,0 +1,12 @@
+2025: immigrants increase the cost of housing, % agree (weighted)
+  One Nation   85.3  (n=37)
+  Liberal      69.4  (n=546)
+  National     68.6  (n=77)
+  Labor        51.9  (n=840)
+  Greens       37.7  (n=217)
+  All          56.8  (n=2043)
+
+1998 perception items, % 'a lot' (unweighted)
+  people would mind an Asian boss a lot: {'One Nation': 32.5, 'Liberal': 16.8, 'Labor': 18.3, 'All': 18.7}
+  people would mind an Asian relative by marriage a lot: {'One Nation': 26.1, 'Liberal': 12.2, 'Labor': 13.7, 'All': 13.4}
+  a lot of prejudice against Asians: {'One Nation': 26.1, 'Liberal': 31.6, 'Labor': 40.1, 'All': 35.4}
